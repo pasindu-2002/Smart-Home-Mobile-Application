@@ -1,4 +1,4 @@
-# smart_home_app
+<h1> Smart Home Mobile Application </h1>
 
 A new Flutter project.
 
@@ -15,6 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+<h1> User Interface </h1>
 
 <img src="https://github.com/pasindu-2002/Smart-Home-Mobile-Application/assets/87941322/e646ece2-a3a9-4bfc-96f8-80ec033a8517" width= 45% height= 30% alt="Image 4">
 
